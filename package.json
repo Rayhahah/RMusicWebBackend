@@ -1,0 +1,20 @@
+{
+  "name": "rmusic-backend",
+  "version": "1.0.0",
+  "description": "后台管理系统代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "koa": "^2.13.3",
+    "koa-body": "^4.2.0",
+    "koa-router": "^10.1.1",
+    "koa2-cors": "^2.0.6",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
